@@ -65,6 +65,8 @@ Description of the following methods:
 5. `computeBalanceWithInterest()` - Returns new balance by computing the balance plus the interest depending on the interest rate.
 6. `showInfo()` - Returns details of account number, account name, and balance.
 
+**BankAcountDecorator** must be an interface.
+
 Follow instructions. You are not allowed to insert other methods except what is stated in the diagram (setters and getters are allowed).
 
 
